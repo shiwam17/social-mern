@@ -1,0 +1,17 @@
+.modal {
+    position: absolute;
+    top: 30%;
+    padding: 50;
+    left: 40;
+    right: 30%;
+    z-index: 999;
+    border: 1px solid #ccc;
+    padding: 100px;
+    background: white;
+}
+
+.modal-header {
+    position: absolute;
+    right: 5%;
+    top: 5%;
+}
